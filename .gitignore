@@ -1,1 +1,6 @@
+__pycache__
 configs.txt
+bin
+lib/python3.12/site-packages
+lib64
+pyvenv.cfg
